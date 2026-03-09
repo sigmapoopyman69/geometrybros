@@ -1,1 +1,26 @@
-# geometrybros
+<html>
+    <head>
+        <!--HTML file auto generated using EmulatorJS codehelper-->
+        <style>
+            body, html {
+                margin: 0;
+                padding: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <div style="width:100%;height:100%;max-width:100%">
+            <div id="game"></div>
+        </div>
+        <script>
+            EJS_player = "#game";
+            EJS_core = "nes";
+            EJS_gameName = "Geometry Bros";
+            EJS_color = "#0064ff";
+            EJS_startOnLoaded = true;
+            EJS_pathtodata = "https://cdn.emulatorjs.org/stable/data/";
+            EJS_gameUrl = "ebert bros.nes";
+        </script>
+        <script src="https://cdn.emulatorjs.org/stable/data/loader.js"></script>
+    </body>
+</html>
